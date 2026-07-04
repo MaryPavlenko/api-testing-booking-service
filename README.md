@@ -1,5 +1,5 @@
 # API Testing [Restful-Booker]
-
+[![API Tests](https://github.com/MaryPavlenko/api-testing-booking-service/actions/workflows/api-tests.yml/badge.svg)](https://github.com/MaryPavlenko/api-testing-booking-service/actions/workflows/api-tests.yml)
 [![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange)]()  [![Newman](https://img.shields.io/badge/runner-Newman-blueviolet)]()  [![REST API](https://img.shields.io/badge/API-REST-lightgrey)]() [![JSON Schema](https://img.shields.io/badge/validation-JSON%20Schema-yellow)]()
 
 ## Overview
