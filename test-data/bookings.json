@@ -1,0 +1,31 @@
+{
+  "validBooking": {
+    "firstname": "Mary",
+    "lastname": "Tester",
+    "totalprice": 219,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2025-06-01",
+      "checkout": "2025-06-10"
+    },
+    "additionalneeds": "Lunch"
+  },
+  "updatedBooking": {
+    "firstname": "Mary",
+    "lastname": "Updated",
+    "totalprice": 200,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2025-08-01",
+      "checkout": "2025-08-10"
+    },
+    "additionalneeds": "Dinner"
+  },
+  "partialUpdate": {
+    "firstname": "Patched"
+  },
+  "invalidBookingDates": {
+    "checkin": "2019-01-01",
+    "checkout": "2018-01-01"
+  }
+}
